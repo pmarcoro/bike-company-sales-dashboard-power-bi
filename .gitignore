@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+.env/
+.envrc
+
+# Datos
+data/raw
+*.csv
+
+
+# Logs
+logs/
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
