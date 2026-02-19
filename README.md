@@ -29,15 +29,17 @@ The business case analysis consists of four dashboards:
 <img src="/screenshots/gifs/Map.gif" width="700">
 </p> 
    
-![Map Dashboard Screenshot](https://github.com/Pablo3621/Power-BI---Bike-Company-Dashboard/blob/main/Screenshots/Map.png)
 
 **3) Product Detail Dashboard:** Enables a deeper understanding of the performance of each individual product.
 
 <p align="center">
-<img src="/screenshots/gifs/Customer_Detail.gif" width="700">
+<img src="/screenshots/gifs/Product_Detail.gif" width="700">
 </p> 
 
-![Product Detail Screenshot](https://github.com/Pablo3621/Power-BI---Bike-Company-Dashboard/blob/main/Screenshots/Product%20Detail.png)
 
 **4) Customer Detail Dashboard:** Describes the company’s customers, allowing for a better understanding of the evolution of the number of unique customers, customer segmentation by income level or occupation, and the identification of top customers in terms of orders and revenue.
-![Customemr Detail Screenshot](https://github.com/Pablo3621/Power-BI---Bike-Company-Dashboard/blob/main/Screenshots/Customer%20Detail.png)
+
+<p align="center">
+<img src="/screenshots/gifs/Customer%20Detail.gif" width="700">
+</p> 
+
